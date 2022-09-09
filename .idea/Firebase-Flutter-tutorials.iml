@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/firebase_phone_auth_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_phone_auth_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_phone_auth_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_database_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_database_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_database_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_messaging_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_messaging_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_messaging_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_start_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_start_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_start_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_facebook_auth_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_facebook_auth_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_facebook_auth_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_bloc_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_bloc_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_bloc_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_twitter_auth_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_twitter_auth_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_twitter_auth_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_storage_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_storage_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_storage_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firestore_data_model_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firestore_data_model_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firestore_data_model_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_google_sign_in_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_google_sign_in_tutorial/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_google_sign_in_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_authentication_tutorial/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_authentication_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_authentication_tutorial/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
